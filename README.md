@@ -1,4 +1,4 @@
-## Hola, Amigos <img src="gifs/wave.gif" width="30px">
+## Hola, Amigos <img src="gifs/wave.gif" width="50px">
 
 <img src="gifs/giphy.gif" height="240" style="width: 100%;">
 
