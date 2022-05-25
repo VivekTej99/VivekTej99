@@ -8,7 +8,7 @@ My name is Vivek Tej and I'm a software engineer. I'm from India, living in hyde
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> 
 
-- 🔭 I’m currently working on ... Web Development, AI and ML
+- 🔭 I’m currently working on ... Full Stack Web Development, AI and ML
 - 🌱 I’m currently learning ...  Django, Machine Learning
 - 👯 I’m looking to collaborate on ... Freelancing Projects
 - 🤔 I’m looking for help with ... Freelancing Web development or AI and ML projects/ work from home
