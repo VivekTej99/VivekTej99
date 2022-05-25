@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I love cooking, I will try a new recipe when I get bored with daily activities :) .
 -->
 
-My name is Vivek Tej and I'm a software engineer. I'm from India, living in hyderabad and currently working as part-time at tech.at.core. You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vivektej?target="_blank")
+My name is Vivek Tej and I'm a software engineer. I'm from India, living in hyderabad and currently working as part-time at tech.at.core. You can find me on  <a href="https://www.linkedin.com/in/vivektej" rel="nofollow noreferrer" target="_blank">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> 
 
 - 🔭 I’m currently working on ... Web Development, AI and ML
 - 🌱 I’m currently learning ...  Django, Machine Learning
