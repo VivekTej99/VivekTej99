@@ -1,16 +1,48 @@
-### Hi there 👋
+## Hola, Amigos <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **VivekTej99/VivekTej99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Web Development, AI and ML
+- 🌱 I’m currently learning ...  Django, Machine Learning
+- 👯 I’m looking to collaborate on ... Freelancing Projects
+- 🤔 I’m looking for help with ... Freelancing Web development or AI and ML projects/ work from home
+- 💬 Ask me about ... Full stack web development
+- 📫 How to reach me: ... vivektej2299@gmail.com
+- 😄 Pronouns: ... He
+- ⚡ Fun fact: ... I love cooking, I will try a new recipe when I get bored with daily activities :) .
 -->
+
+My name is Vivek Tej and I'm a software engineer. I'm from India, living in hyderabad and currently working as part-time at tech.at.core. You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vivektej/)
+
+- 🔭 I’m currently working on ... Web Development, AI and ML ![image](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
+- 🌱 I’m currently learning ...  Django, Machine Learning
+- 👯 I’m looking to collaborate on ... Freelancing Projects
+- 🤔 I’m looking for help with ... Freelancing Web development or AI and ML projects/ work from home
+- 💬 Ask me about ... Full stack web development
+- 📫 How to reach me: ... vivektej2299@gmail.com
+- 😄 Pronouns: ... He
+- ⚡ Fun fact: ... I love cooking, I will try a new recipe when I get bored with daily activities :) .
+
+
+## 💳 Github Profile Summary Card
+
+___
+
+![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivektej99&theme=vue)
+
+## &#x1f4c8; GitHub Stats
+____
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=VivekTej99&show_icons=true&theme=radical "github stats")
+
+
+## 📊 Most used programming languages
+____
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekTej99&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3%22 "Most used languages")
+
+
