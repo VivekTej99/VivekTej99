@@ -1,6 +1,6 @@
-## Hola, Amigos <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hola, Amigos <img src="gifs/wave.gif" width="30px">
 
-<img src="gifs/giphy.gif">
+<img src="gifs/giphy.gif" height="240" style="width: 100%;">
 
  ___
 
