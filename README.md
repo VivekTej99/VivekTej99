@@ -4,17 +4,18 @@
 
  ___
 
-My name is Vivek Tej and I'm a software engineer. I'm from India, living in hyderabad and currently working as part-time at tech.at.core. You can find me on  <a href="https://www.linkedin.com/in/vivektej" rel="nofollow noreferrer" target="_blank">
+My name is Vivek Tej and I'm a software engineer. I'm from India, living in hyderabad and currently working as Software Engineer at tech.at.core. You can find me on  <a href="https://www.linkedin.com/in/vivektej" rel="nofollow noreferrer" target="_blank">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> 
 
-- 🔭 I’m currently working on ... Full Stack Web Development, AI and ML
-- 🌱 I’m currently learning ...  Django, Machine Learning
+- 🔭 I’m currently crafting scalable web applications and solving problems
+- 🌱 I’m always a problem solver and have passion for technology by developing something
 - 👯 I’m looking to collaborate on ... Freelancing Projects
-- 🤔 I’m looking for help with ... Freelancing Web development or AI and ML projects/ work from home
-- 💬 Ask me about ... Full stack web development
+- I'm open for exploring different areas jobs in Software Industry
+- 🤔 I’m interested to connect with people who are problem solvers like me.
+- 💬 Ask me about ... Full stack web development, AI and ML
 - 📫 How to reach me: ... vivektej2299@gmail.com
-- 😄 Pronouns: ... He
+- 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I love cooking, I will try a new recipe when I get bored with daily activities :) .
 
 
